@@ -107,20 +107,6 @@ If you find this implementation useful for your research or teaching, please con
 
 https://github.com/mohammadfadaei-lab/Inverted-Pendulum-LQR-Control
 
-cff-version: 1.2.0
-title: "Inverted Pendulum LQR Control"
-message: "If you use this software in your research, please cite it."
-type: software
-
-authors:
-  - family-names: "Khamsehei Fadaei"
-    given-names: "Mohammad Heidar"
-    orcid: "https://orcid.org/0000-0001-6425-0728"
-
-repository-code: "https://github.com/mohammadfadaei-lab/Inverted-Pendulum-LQR-Control"
-
-date-released: "2026"
-
 license: "MIT"
 Contributions in the form of bug reports, suggestions, or pull requests are warmly welcomed. Please open an issue or submit a pull request via the GitHub interface.
 
