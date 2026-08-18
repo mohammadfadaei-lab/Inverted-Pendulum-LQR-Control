@@ -105,7 +105,7 @@ This project is distributed under the **MIT License** – you are free to use, m
 
 If you find this implementation useful for your research or teaching, please consider citing it by referencing the repository URL:
 
-> *Inverted Pendulum Control Using LQR*, GitHub repository, [[https://github.com/[YourUsername]/[YourRepoName]](https://github.com/mohammadfadaei-lab/Inverted-Pendulum-LQR-Control)](https://github.com/mohammadfadaei-lab/Inverted-Pendulum-LQR-Control).
+https://github.com/mohammadfadaei-lab/Inverted-Pendulum-LQR-Control
 
 Contributions in the form of bug reports, suggestions, or pull requests are warmly welcomed. Please open an issue or submit a pull request via the GitHub interface.
 
